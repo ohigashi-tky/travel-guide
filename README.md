@@ -4,7 +4,7 @@
 ## 技術スタック
 Laravel12  
 Vue3  
-SQLite→MySQLに変更予定  
+MySQL8
   
 ## 認証
 SSO (WorkOS AuthKit)  
