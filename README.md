@@ -5,9 +5,9 @@
 </p>
 
 ## 技術スタック
-Laravel12
-Vue3
-MySQL8
+Laravel12  
+Vue3  
+MySQL8  
 [OpenAI.fm](https://www.openai.fm/)
   
 ## 認証
