@@ -8,6 +8,8 @@
 Laravel12  
 Vue3  
 MySQL8  
+Pest  
+PHPStan  
 [OpenAI.fm](https://www.openai.fm/)
   
 ## 認証
