@@ -1,7 +1,7 @@
 # 観光ガイドアプリ
 
 <p align="center">
-  <img src="/Users/takuya/src/travel-guide/public/img/travelguide_logo.png" alt="TravelGuide" width="200">
+  <img src="./public/img/travelguide_logo.png" alt="TravelGuide" width="200">
 </p>
 
 ## 技術スタック
