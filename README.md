@@ -1,10 +1,14 @@
 # 観光ガイドアプリ
-音声ガイドを実装する  
-  
+
+<p align="center">
+  <img src="/Users/takuya/src/travel-guide/public/img/travelguide_logo.png" alt="TravelGuide" width="200">
+</p>
+
 ## 技術スタック
-Laravel12  
-Vue3  
+Laravel12
+Vue3
 MySQL8
+[OpenAI.fm](https://www.openai.fm/)
   
 ## 認証
 SSO (WorkOS AuthKit)  
@@ -14,4 +18,4 @@ SSO (WorkOS AuthKit)
 pnpm install && pnpm run build
 composer run dev
 ```
-localhost:8000にアクセス  
+localhost:8000にアクセス
